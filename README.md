@@ -1,4 +1,4 @@
-# COMP307 Assignment Two
+# COMP307 Assignment Two - Perceptron and Neural Networks
 
 - Part 1 - Question 1 (15/15)
 - Part 1 - Question 2 (10/10)
